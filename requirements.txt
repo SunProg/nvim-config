@@ -1,0 +1,4 @@
+python-language-server==0.36.0
+black==24.4.2
+ruff-lsp==0.0.53
+ruff==0.4.2
